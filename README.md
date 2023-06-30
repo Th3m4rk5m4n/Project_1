@@ -1,5 +1,5 @@
 # Project_1
-Instagram Logo using Python 
+Create Instagram Logo using Python 
 
 
 
